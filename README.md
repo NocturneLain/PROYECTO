@@ -30,6 +30,10 @@ Luego se pregunta al usuario si esta casado de ser así le pregunaremos la edad 
 Nuevamene se pregunta al usuario si tiene hijos, de ser así le preguntamos cuantos si tiene menos de 2 se le agrega un recargo de 0.20 ahora si tiene más será de 0.30.
 Finalmente le mostramos al asegurado el total del recargo mas el precio base que es Q2000.00, lo mostramos en pantalla y luego antes de finalizar la ejecución le preguntamos si gusta realizar otra cotización en caso que desee volver a hacerlo o hacer una cotizacion para otro asegurado, de lo contrario el programa terminará. 
 
+Mejoras en el proyecto para la empresa TK-U:
+
+En cuanto a las mejoras posibles, hay muchas, ya que se podría crear el usuario para el asegurado, de esta manera guardar sus datos y poder enviar por correo la información que creemos importante, asi como no tener que volver a correr el código para revisar los recargos. 
+
 De esta manera se brindó una solución optima a la empresa, reducir el tiempo de cotizaciones y poder hacer tantas cotizaciones como sean necesarias. para referencia del código puede visitar el link [*COTIZACIONES_tk-U*](proyecto.html)
     
     
